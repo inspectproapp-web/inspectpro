@@ -1,58 +1,44 @@
-# App Store Listing — InspectPro
+# Privacy Policy — InspectPro
 
-## App Name
+**Last updated: March 31, 2026**
 
-InspectPro
+## Overview
 
-## Subtitle (30 characters max)
+InspectPro is a mobile application designed for refinery inspection and corrosion engineers. The app operates entirely offline and does not collect, store, transmit, or share any personal data.
 
-Inspection & Corrosion Toolkit
+## Data Collection
 
-## Category
+InspectPro does **not** collect any of the following:
 
-Primary: Utilities
-Secondary: Productivity
+- Personal information (name, email, phone number)
+- Location data
+- Usage analytics or tracking data
+- Device identifiers
+- Cookies or similar technologies
 
-## Keywords (100 characters max, comma-separated)
+## Data Storage
 
-inspection,corrosion,API 510,API 571,welding,thickness,refinery,pressure vessel,NDT,fitness service
+All data created within the app (such as inspection notes, thickness readings, and photos) is stored **locally on your device only**. No data is transmitted to any server, cloud service, or third party.
 
-## Description
+## Photos
 
-InspectPro is a comprehensive offline toolkit built for refinery inspection and corrosion engineers. Designed for field use, every feature works without an internet connection.
+Photos taken or selected within the app are stored locally on your device and are only used within the app for inspection documentation and PDF report generation. Photos are never uploaded or shared unless you explicitly choose to share a PDF report using your device’s share functionality.
 
-WELDING PROCEDURE ADVISOR
-Get welding procedure recommendations based on base metal, filler metal, thickness, and joint type. Covers preheat, interpass limits, and PWHT requirements per API 582.
+## Third-Party Services
 
-COATING SELECTOR
-Select coating systems based on environment, substrate, and service temperature. Surface preparation and DFT specifications included.
+InspectPro does not integrate with any third-party services, analytics platforms, advertising networks, or cloud storage providers.
 
-CORROSION & THICKNESS CALCULATOR
-Calculate minimum required thickness per ASME B31.3, ASME Section VIII, and API 650. Determine corrosion rates from thickness readings with remaining life estimates and retirement dates. Includes a pipe size reference with wall thickness schedules.
+## Children’s Privacy
 
-FITNESS-FOR-SERVICE SCREENING
-Level 1 screening assessments per API 579 for general metal loss, local metal loss, pitting, cracking, creep damage, fire damage, dents, and more. Applicability checklists and acceptance criteria included.
+InspectPro is a professional engineering tool and is not directed at children under 13.
 
-DAMAGE MECHANISM COMPANION
-Browse, search, and cross-reference over 60 damage mechanisms from API 571. Look up by category, service environment, material, or equipment type. Quick check tool for material-service-temperature combinations.
+## Changes to This Policy
 
-FIELD REFERENCE
-Quick lookup tables for acceptance criteria, hardness limits, pressure testing, PWHT temperatures, engineering formulas, inspection intervals, unit conversions, and code exemptions.
+If this privacy policy is updated, the changes will be reflected on this page with an updated date.
 
-INSPECTION NOTES
-Digital field inspection checklists for unfired pressure vessels. Select equipment type, tick findings with severity ratings, attach photos, and export professional PDF reports — all from your phone.
+## Contact
 
-Built by a working inspection engineer for working inspection engineers.
+If you have questions about this privacy policy, contact:
 
-## What’s New (for version updates)
-
-- New Inspection Notes module with field checklists for 6 equipment types
-- Photo attachment with camera and gallery support
-- Professional themed PDF report export
-- Damage Mechanism Companion with 60+ mechanisms from API 571
-- Fitness-for-Service Level 1 screening per API 579
-- Pipe size reference with wall thickness schedules
-
-## Promotional Text (170 characters max, can be updated without new build)
-
-The offline toolkit every refinery inspection engineer needs. Welding, corrosion, FFS, damage mechanisms, and field inspection notes — all in your pocket.
+**Fahad Alzuabi**  
+Email: inspectpro.app@gmail.com
